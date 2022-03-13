@@ -59,10 +59,10 @@ We can use the Azure Cloudshell, AZ PowerShell & so on, to create an Azure Resou
 2. Select Resource groups.
 3. Select the resource group you want to open.
 
-For more informationa about resource group creation, go to https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal
+For more informationa about resource group creation, go to [Manage Azure resource groups by using the Azure portal](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal)
 
 
 **Next Stage**
 ------------------------------------------------------------------------------------------------------------------------------------
 
-**II. Create Azure SQL Database thru Azure Portal**
+[**II. Create Azure SQL Database thru Azure Portal**](https://github.com/fortehub/MyExpensesDBtoAzureSQLDB/blob/e2cece152a3aa5cc5e707fef096c78168590fd92/II.%20Create%20Azure%20SQL%20Database%20thru%20Azure%20Portal.md)
