@@ -12,7 +12,7 @@ We can use the Azure Cloudshell, AZ PowerShell & so on, to create an Azure Resou
 **Create resource groups**
 ------------------------------------------------------------------------------------------------------------------------------------
 
-1. Sign in to the Azure portal (https://portal.azure.com/#home)
+1. Sign in to the [Azure portal](https://portal.azure.com/#home)
 2. Select **Resource groups**
 
 ![image](https://user-images.githubusercontent.com/95063830/158051294-ac51529a-1c6d-4a24-a8ef-0cf9ab4797f3.png)
@@ -43,7 +43,7 @@ We can use the Azure Cloudshell, AZ PowerShell & so on, to create an Azure Resou
 **List resource groups**
 ------------------------------------------------------------------------------------------------------------------------------------
 
-1. Sign in to the Azure portal (https://portal.azure.com/#home)
+1. Sign in to the [Azure portal](https://portal.azure.com/#home)
 2. To list the resource groups, select **Resource groups**
 
 ![image](https://user-images.githubusercontent.com/95063830/158051764-5054d265-887b-44e4-975f-2412d25511ff.png)
@@ -55,7 +55,7 @@ We can use the Azure Cloudshell, AZ PowerShell & so on, to create an Azure Resou
 
 **Open resource groups**
 ------------------------------------------------------------------------------------------------------------------------------------
-1. Sign in to the Azure portal (https://portal.azure.com/#home)
+1. Sign in to the [Azure portal](https://portal.azure.com/#home)
 2. Select Resource groups.
 3. Select the resource group you want to open.
 
