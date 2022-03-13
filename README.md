@@ -16,15 +16,15 @@ Step by Step to migrate our local database (MyExpensesDB) to Azure SQL Databases
 
 **Contents**
 ------------------------------------------------------------------------------------------------------------------------------------
-**I. Create a Resource Group for MyExpensesDB**                         <br/>
+[**I. Create a Resource Group for MyExpensesDB**](https://github.com/fortehub/MyExpensesDBtoAzureSQLDB/blob/35086baf706a60c4288fc0b5470ddbb3d05ae4a7/I.%20Create%20a%20Resource%20Group%20for%20MyExpensesDB.md)     <br/>
 **II. Create Azure SQL Database thru Azure Portal**                     <br/>
-**III. Create Azure SQL Database thru PowerShell with ARM Template**    <br/>
-**IV. Create Azure SQL Database thru AZ PowerShell cmdlet**             <br/>
-**V. Assess and Migrate databases using Data Migration Assistant**      <br/>
-**VI. Connect Application to the Azure SQL Database**                   <br/>
+**III. Create Azure SQL Database thru AZ PowerShell cmdlet**            <br/>
+**IV. Assess and Migrate databases using Data Migration Assistant**     <br/>
+**V. Connect Application to the Azure SQL Database**                    <br/>
+**VI. Additional Configuration**                                        <br/>
 <br/>
 
 **Next Stage**
 ------------------------------------------------------------------------------------------------------------------------------------
 
-**I. Create a Resource Group for MyExpensesDB**
+[**I. Create a Resource Group for MyExpensesDB**](https://github.com/fortehub/MyExpensesDBtoAzureSQLDB/blob/35086baf706a60c4288fc0b5470ddbb3d05ae4a7/I.%20Create%20a%20Resource%20Group%20for%20MyExpensesDB.md)
