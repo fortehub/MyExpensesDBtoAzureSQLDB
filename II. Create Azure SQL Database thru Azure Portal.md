@@ -72,4 +72,4 @@ For more informationa about resource group creation, go to [Quickstart: Create a
 **Next Stage**
 ------------------------------------------------------------------------------------------------------------------------------------
 
-**III. Create Azure SQL Database thru AZ PowerShell cmdlet**
+[**III. Create Azure SQL Database thru AZ PowerShell cmdlet**](https://github.com/fortehub/MyExpensesDBtoAzureSQLDB/blob/2f8c761d87ce8b83558bc068d68e00e6cd1c7019/III.%20Create%20Azure%20SQL%20Database%20thru%20AZ%20PowerShell%20cmdlet.md)
