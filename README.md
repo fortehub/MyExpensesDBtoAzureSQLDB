@@ -5,8 +5,7 @@ Migrating MyExpensesDB to Azure SQL Databases
 
 **Introduction**
 ------------------------------------------------------------------------------------------------------------------------------------
-We are going to migrate our local database (MyExpensesDB) to Azure SQL Databases.
-<br/>
+Step by Step to migrate our local database (MyExpensesDB) to Azure SQL Databases.
 <br/>
 
 **Prerequisites**
@@ -14,8 +13,6 @@ We are going to migrate our local database (MyExpensesDB) to Azure SQL Databases
 1. Microsoft Azure Account and Subscription
 2. Data Migration Assistant                                             <br/>
    https://www.microsoft.com/en-us/download/details.aspx?id=53595
-<br/>
-<br/>
 
 **Contents**
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -25,7 +22,6 @@ We are going to migrate our local database (MyExpensesDB) to Azure SQL Databases
 **IV. Create Azure SQL Database thru AZ PowerShell cmdlet**             <br/>
 **V. Assess and Migrate databases using Data Migration Assistant**      <br/>
 **VI. Connect Application to the Azure SQL Database**                   <br/>
-<br/>
 <br/>
 
 **Next Stage**
