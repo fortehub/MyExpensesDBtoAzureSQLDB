@@ -122,4 +122,5 @@ MyExpensesDB on Azure SQL Database successfully deployed!
 **Next Stage**
 ------------------------------------------------------------------------------------------------------------------------------------
 
-**IV. Assess and Migrate databases using Data Migration Assistant**
+[**IV. Assess and Migrate databases using Data Migration Assistant**](https://github.com/fortehub/MyExpensesDBtoAzureSQLDB/blob/7c93a4d9120d6179881cabd13fb92570bfd4dabf/IV.%20Assess%20and%20Migrate%20databases%20using%20Data%20Migration%20Assistant.md)
+
