@@ -88,7 +88,7 @@ GO
 **Next Stage**
 ------------------------------------------------------------------------------------------------------------------------------------
 
-**V. Connect Application to the Azure SQL Database**
+[**V. Connect Application to the Azure SQL Database**](https://github.com/fortehub/MyExpensesDBtoAzureSQLDB/blob/6e3d2b51b00e95913625bf36d3ed04a374c850f4/V.%20Connect%20Application%20to%20the%20Azure%20SQL%20Database.md)
 
 
 
