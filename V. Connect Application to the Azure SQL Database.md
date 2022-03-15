@@ -84,4 +84,4 @@ Connection string applied. Now it should be able to connect to our Azure SQL Dat
 **Next Stage**
 ------------------------------------------------------------------------------------------------------------------------------------
 
-**VI. Additional Configuration**
+[**VI. Additional Configuration**](https://github.com/fortehub/MyExpensesDBtoAzureSQLDB/blob/8f88be5861042cdfbc831590686bc230983da852/VI.%20Additional%20Configuration.md)
