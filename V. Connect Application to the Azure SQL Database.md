@@ -66,6 +66,21 @@ PowerBI is connected now on Azure SQL Database.
 ![image](https://user-images.githubusercontent.com/95063830/158181311-ca8a30b0-4eba-4cc0-9e5a-c6c4992e20ab.png)
 
 
+**Connect PowerShell script to Azure SQL DB**
+------------------------------------------------------------------------------------------------------------------------------------
+This is the original content of our PowerShell script:
+
+![image](https://user-images.githubusercontent.com/95063830/158324076-e39517bd-5e63-420e-a646-cf6145685bb5.png)
+
+Now we have to change the connection string. At the **Overview** of Azure SQL Database, click the **Connection Strings**. You will be prompted with the connection string of your Azure SQL DB.
+
+Copy and apply this new connection string to our PowerShell script. Please input the database password, then save your work.
+
+![image](https://user-images.githubusercontent.com/95063830/158324723-57c6990d-4c58-466c-aa92-5d947942e13e.png)
+
+Connection string applied. Now it should be able to connect to our Azure SQL Database.
+
+
 **Next Stage**
 ------------------------------------------------------------------------------------------------------------------------------------
 
