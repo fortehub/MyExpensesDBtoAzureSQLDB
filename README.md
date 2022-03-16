@@ -21,7 +21,8 @@ Step by Step to migrate our local database (MyExpensesDB) to Azure SQL Databases
 [**IV. Assess and Migrate databases using Data Migration Assistant**](https://github.com/fortehub/MyExpensesDBtoAzureSQLDB/blob/7c93a4d9120d6179881cabd13fb92570bfd4dabf/IV.%20Assess%20and%20Migrate%20databases%20using%20Data%20Migration%20Assistant.md)<br/>
 [**V. Connect Application to the Azure SQL Database**](https://github.com/fortehub/MyExpensesDBtoAzureSQLDB/blob/6e3d2b51b00e95913625bf36d3ed04a374c850f4/V.%20Connect%20Application%20to%20the%20Azure%20SQL%20Database.md) <br/>
 [**VI. Additional Configuration**](https://github.com/fortehub/MyExpensesDBtoAzureSQLDB/blob/8f88be5861042cdfbc831590686bc230983da852/VI.%20Additional%20Configuration.md) <br/>
-<br/>
+[**VII. Changing Service Tier**](https://github.com/fortehub/MyExpensesDBtoAzureSQLDB/blob/a032eda3d90a85c5d3299349a9259a081790b8ca/VII.%20Changing%20Service%20Tier.md)
+
 
 **Next Stage**
 ------------------------------------------------------------------------------------------------------------------------------------
