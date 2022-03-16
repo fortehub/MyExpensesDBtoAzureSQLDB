@@ -52,5 +52,8 @@ We forgot to add tag to our Databases.
 ![image](https://user-images.githubusercontent.com/95063830/158327463-060a99ea-71c2-45d0-8011-97401ab46039.png)
 
 
+**Next Stage**
+------------------------------------------------------------------------------------------------------------------------------------
 
+[**VII. Changing Service Tier**](https://github.com/fortehub/MyExpensesDBtoAzureSQLDB/blob/a032eda3d90a85c5d3299349a9259a081790b8ca/VII.%20Changing%20Service%20Tier.md)
 
